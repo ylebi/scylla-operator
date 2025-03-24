@@ -19,7 +19,6 @@ kubectl explain --api-version='scylla.scylladb.com/v1alpha1' NodeConfig.spec
 :gutter: 4
 
 :::{grid-item-card} {material-regular}`storage;2em` ScyllaClusters
-:link: /resources/scyllaclusters/basics
 
 ScyllaCluster defines a ScyllaDB datacenter and manages the racks within.
 +++

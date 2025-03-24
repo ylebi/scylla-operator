@@ -111,7 +111,7 @@ html_theme_options = {
     'default_branch': 'master',
     'hide_edit_this_page_button': 'false',
     "hide_feedback_buttons": 'false',
-    'github_repository': 'scylladb/scylla-operator',
+    'github_repository': 'ylebi/scylla-operator',
     'github_issues_repository': 'scylladb/scylla-operator',
     "versions_unstable": UNSTABLE_VERSIONS,
     "zendesk_tag": 'd8cgbpqrvmemn8ugficex8',
